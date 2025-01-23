@@ -1,0 +1,53 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Dependency directories
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js build output
+.next/
+
+# Static exports
+out/
+
+# Vercel
+.vercel/
+
+# IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS
+*.DS_Store
+
+# Test Coverage
+coverage/
+
+# npm package
+*.tgz
+
+# Optional npm cache directory
+.npm/
+
+# Yarn Integrity
+.yarn-integrity
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
